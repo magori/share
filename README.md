@@ -7,6 +7,7 @@ Applications Android à essayer, distribuées sous forme d'APK.
 | Application | Version | Fichier | Taille | Android |
 |---|---|---|---|---|
 | BloX | 1.0.0-rc2 (version de test) | [blox/blox-1.0.0-rc2.apk](blox/blox-1.0.0-rc2.apk) | 3,8 Mo | 8.0 ou plus |
+| MusiquNoteFind | 0.2 (build 3229, version de test) | [musiqunotefind/musiqunotefind-0.2-3229.apk](musiqunotefind/musiqunotefind-0.2-3229.apk) | 51,6 Mo | 14 ou plus |
 
 ### BloX
 
@@ -20,6 +21,13 @@ Un jeu de blocs pour Android, avec plusieurs jeux réunis dans une seule applica
 - **Passerelle** (nouveau) : on construit un pont au-dessus d'un ravin, puis la mascotte le traverse en chantant.
 
 La version 1.0.0-rc2 est une **version de test** : elle peut encore contenir des défauts.
+
+### MusiquNoteFind
+
+Une application pour apprendre le piano : elle écoute le piano (au micro de la tablette ou par un clavier MIDI)
+et écrit les notes jouées : note en direct, historique, partition avec rythme, export MIDI et MusicXML.
+
+La version 0.2 est une **version de test** : elle peut encore contenir des défauts.
 
 ## Installer un APK
 
