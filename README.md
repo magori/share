@@ -7,7 +7,7 @@ Applications Android à essayer, distribuées sous forme d'APK.
 | Application | Version | Fichier | Taille | Android |
 |---|---|---|---|---|
 | BloX | 1.0.0-rc2 (version de test) | [blox/blox-1.0.0-rc2.apk](blox/blox-1.0.0-rc2.apk) | 3,8 Mo | 8.0 ou plus |
-| MusiquNoteFind | 0.2 (build 3229, version de test) | [musiqunotefind/musiqunotefind-0.2-3229.apk](musiqunotefind/musiqunotefind-0.2-3229.apk) | 51,6 Mo | 14 ou plus |
+| MusiquNoteFind | 0.2 (build 3394, version de test) | [musiqunotefind/musiqunotefind-0.2-3394.apk](musiqunotefind/musiqunotefind-0.2-3394.apk) | 19,9 Mo | 14 ou plus |
 
 ### BloX
 
